@@ -1,0 +1,10 @@
+# Ambiente dos notebooks de CD
+ipykernel
+matplotlib
+numpy
+pandas
+pandas-datareader
+scipy
+seaborn
+statsmodels
+yfinance

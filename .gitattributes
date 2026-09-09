@@ -1,0 +1,11 @@
+* text=auto
+
+*.csv text eol=lf
+*.ipynb text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+
+*.gif binary
+*.pdf binary
+*.xlsx binary
