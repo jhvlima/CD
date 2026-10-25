@@ -1,0 +1,4 @@
+-r ../requirements.txt
+# Processamento de textos, conforme a aula de dados textuais.
+nltk==3.10.3
+scikit-learn

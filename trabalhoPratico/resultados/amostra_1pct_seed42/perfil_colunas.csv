@@ -1,0 +1,10 @@
+coluna,tipo,ausentes,strings_vazias,valores_distintos
+book_id,int64,0,0,25000
+title,str,0,0,24244
+author,str,0,0,17509
+description,str,0,0,24763
+genre,str,0,0,3877
+publication_year,float64,5069,0,116
+average_rating,float64,0,0,279
+ratings_count,int64,0,0,2264
+num_pages,float64,7273,0,856
